@@ -5,6 +5,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yahayuta&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yahayuta&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yahayuta&theme=default&utcOffset=9)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yahayuta)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahayuta)
 
