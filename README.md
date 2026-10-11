@@ -20,6 +20,7 @@ I build data platforms and generative-AI workflows, from requirements through op
 
 | Project | What it is |
 |---|---|
+| [ec-analytics-platform](https://github.com/yahayuta/ec-analytics-platform) | Reference analytics platform for multi-channel e-commerce: dbt + BigQuery + Terraform, with every model tested in CI |
 | [ai_bot_app](https://github.com/yahayuta/ai_bot_app) | AI chatbot for LINE and Facebook Messenger with text and image generation and voice transcription |
 | [ai_mate](https://github.com/yahayuta/ai_mate) | Low-latency voice-to-voice conversational AI with a Streamlit admin dashboard |
 | [ai_bot_app_insta](https://github.com/yahayuta/ai_bot_app_insta) | Bot that creates images with generative AI and posts them to Instagram and Threads with Gemini-written captions |
