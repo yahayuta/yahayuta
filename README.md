@@ -24,6 +24,7 @@ I build data platforms and generative-AI workflows, from requirements through op
 | [business-ai-evals](https://github.com/yahayuta/business-ai-evals) | Evaluation harness for business LLM features: labeled cases, error taxonomy, prompt comparison and a CI quality gate |
 | [ec-orders-mcp](https://github.com/yahayuta/ec-orders-mcp) | Read-only MCP server that lets Claude analyse order data safely: guarded SQL, PII masking and an audit log |
 | [dify-business-ai](https://github.com/yahayuta/dify-business-ai) | Dify apps for order-sheet extraction and inquiry triage, where code checks the LLM output; accuracy measured on Dify Cloud |
+| [ec-order-hub](https://github.com/yahayuta/ec-order-hub) | Spring Boot service that imports orders from several marketplaces into PostgreSQL: incremental, idempotent, retried, with a review queue; Docker and Terraform for AWS |
 | [ai_bot_app](https://github.com/yahayuta/ai_bot_app) | AI chatbot for LINE and Facebook Messenger with text and image generation and voice transcription |
 | [ai_mate](https://github.com/yahayuta/ai_mate) | Low-latency voice-to-voice conversational AI with a Streamlit admin dashboard |
 | [ai_bot_app_insta](https://github.com/yahayuta/ai_bot_app_insta) | Bot that creates images with generative AI and posts them to Instagram and Threads with Gemini-written captions |
