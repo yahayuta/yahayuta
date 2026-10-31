@@ -38,5 +38,6 @@ Tech articles on [Qiita](https://qiita.com/yahayuta) (in Japanese). Recent ones 
 - [Building an e-commerce analytics platform whose numbers add up with dbt, BigQuery and Terraform](https://qiita.com/yahayuta/items/ccc203f4e55949357f2e)
 - [Evaluating business AI with labeled data: scoring, counting errors by cause, and gating in CI](https://qiita.com/yahayuta/items/a52605841be32c520098)
 - [Letting Claude analyze order data safely: a read-only MCP server with defense in depth](https://qiita.com/yahayuta/items/7eb17dac8756c9e73e4d)
+- [Showing dbt marts as they are: an e-commerce dashboard with Next.js server components](https://qiita.com/yahayuta/items/f72432577ed305dea3b2)
 
 Earlier articles cover OpenAI / ChatGPT, Vertex AI and AI bots.
