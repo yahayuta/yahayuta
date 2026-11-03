@@ -40,5 +40,6 @@ Tech articles on [Qiita](https://qiita.com/yahayuta) (in Japanese). Recent ones 
 - [Evaluating business AI with labeled data: scoring, counting errors by cause, and gating in CI](https://qiita.com/yahayuta/items/a52605841be32c520098)
 - [Letting Claude analyze order data safely: a read-only MCP server with defense in depth](https://qiita.com/yahayuta/items/7eb17dac8756c9e73e4d)
 - [Showing dbt marts as they are: an e-commerce dashboard with Next.js server components](https://qiita.com/yahayuta/items/f72432577ed305dea3b2)
+- [Apps Script that keeps running after its author leaves: an order-intake tool handed over with a settings sheet, a run log, review and tests](https://qiita.com/yahayuta/items/1dedbe4dbee36e000c96)
 
 Earlier articles cover OpenAI / ChatGPT, Vertex AI and AI bots.
