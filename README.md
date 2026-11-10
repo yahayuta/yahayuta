@@ -41,5 +41,6 @@ Tech articles on [Qiita](https://qiita.com/yahayuta) (in Japanese). Recent ones 
 - [Letting Claude analyze order data safely: a read-only MCP server with defense in depth](https://qiita.com/yahayuta/items/7eb17dac8756c9e73e4d)
 - [Showing dbt marts as they are: an e-commerce dashboard with Next.js server components](https://qiita.com/yahayuta/items/f72432577ed305dea3b2)
 - [Apps Script that keeps running after its author leaves: an order-intake tool handed over with a settings sheet, a run log, review and tests](https://qiita.com/yahayuta/items/1dedbe4dbee36e000c96)
+- [From hearing a team's pain point to a working tool in an hour: how I split the work with AI to build tools people actually use](https://qiita.com/yahayuta/items/b6a0aa396c8584b6b3c8)
 
 Earlier articles cover OpenAI / ChatGPT, Vertex AI and AI bots.
