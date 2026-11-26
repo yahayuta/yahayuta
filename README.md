@@ -27,6 +27,7 @@ I build data platforms and generative-AI workflows, from requirements through op
 | [ec-order-hub](https://github.com/yahayuta/ec-order-hub) | Spring Boot service that imports orders from several marketplaces into PostgreSQL: incremental, idempotent, retried, with a review queue; Docker and Terraform for AWS |
 | [ec-dashboard](https://github.com/yahayuta/ec-dashboard) | Next.js and TypeScript dashboard on top of the ec-analytics-platform marts: KPIs vs the previous period, channel trends and RFM segments, with data read only on the server from BigQuery or a bundled sample |
 | [gas-business-automation](https://github.com/yahayuta/gas-business-automation) | Order-intake automation in Google Apps Script that a business team can run and hand over: settings on a sheet, a run log, review instead of guessing, TypeScript with tests in CI |
+| [ec-admin-php](https://github.com/yahayuta/ec-admin-php) | Order and inventory admin in Laravel + MySQL: status rules in one place, all-or-nothing stock allocation with row locks, and a ledger row for every stock change |
 | [ai_bot_app](https://github.com/yahayuta/ai_bot_app) | AI chatbot for LINE and Facebook Messenger with text and image generation and voice transcription |
 | [ai_mate](https://github.com/yahayuta/ai_mate) | Low-latency voice-to-voice conversational AI with a Streamlit admin dashboard |
 | [ai_bot_app_insta](https://github.com/yahayuta/ai_bot_app_insta) | Bot that creates images with generative AI and posts them to Instagram and Threads with Gemini-written captions |
